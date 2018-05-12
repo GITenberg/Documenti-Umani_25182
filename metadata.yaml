@@ -1,0 +1,36 @@
+_repo: Documenti-Umani_25182
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Roberto, Federico
+    aliases:
+    - Roberto, Federico de
+    - De Roberto, Federigo
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '31124'
+    url: http://www.gutenberg.org/2009/agents/31124
+    wikipedia: http://it.wikipedia.org/wiki/Federico_De_Roberto
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2008-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25182'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction -- 19th century'
+- !lcsh 'Short stories, Italian'
+tableOfContents: Documenti umani -- Il passato -- Una dichiarazione -- Il memoriale
+  del marito -- Il ritratto del maestro Albani -- Studio di donna -- Il sacramento
+  della penitenza -- Un caso imprevisto -- Donato del Piano -- La morta -- Le due
+  faccie della medaglia -- Una voce -- Epilogo -- L'orgoglio e la pietà.
+title: Documenti Umani
+url: http://www.gutenberg.org/ebooks/25182
